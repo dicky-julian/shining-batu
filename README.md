@@ -1,5 +1,3 @@
-![alt text](./images/shiningbatu.png)
-
 ## Introduction
 
 Shining Batu is a website created to promote city tourism. This website participated in Asia Web Design Competition (2018 - Asia University, Malang, Indonesia) and has won second place. Sorry for bad code management, cause this is my first project :)
